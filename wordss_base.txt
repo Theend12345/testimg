@@ -1,1 +1,1 @@
-https://s3.gamepush.com/games/wl/3ed96faa-16f4-4e09-b233-ab281e7e3031/v1/?_platform=partner&_platform-key=gp-1;false
+https://s3.gamepush.com/frame/partner/gp-1/games/wl/3ed96faa-16f4-4e09-b233-ab281e7e3031/v2/?_platform-key=pikabu&pikabu=true&game_url=https%3A%2F%2Fgames.pikabu.ru%2Fgame%2Fassotsiatsii-soedinenie-slov&lang=ru;false
