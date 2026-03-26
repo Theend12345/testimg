@@ -1,3 +1,3 @@
 {
-   "arrows":"https://s3.gamepush.com/games/wl/c273f4c5-e9c0-418d-93cb-573aceb50b47/v2/?_platform=partner&_platform-key=gp-1;false"
+   "arrows":"https://s3.gamepush.com/frame/partner/gp-1/games/wl/c273f4c5-e9c0-418d-93cb-573aceb50b47/v2/?_platform-key=pikabu&pikabu=true&game_url=https%3A%2F%2Fgames.pikabu.ru%2Fgame%2Frasputay-strelki&lang=ru;false"
 }
