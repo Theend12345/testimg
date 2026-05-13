@@ -1,4 +1,4 @@
 {
-   "arrows":"https://s3.gamepush.com/games/wl/c273f4c5-e9c0-418d-93cb-573aceb50b47/v2/?_platform=partner&_platform-key=gp-1;true;90;10",
+   "arrows":"https://s3.gamepush.com/games/wl/c273f4c5-e9c0-418d-93cb-573aceb50b47/v2/?_platform=partner&_platform-key=gp-1;true;90;100",
    "arrowgo":"https://s3.gamepush.com/frame/partner/gp-1/games/wl/bc211eef-bf6d-4591-ba76-6bd07603e365/v2/?_platform-key=pikabu&pikabu=true&game_url=https%3A%2F%2Fgames.pikabu.ru%2Fgame%2Fstrelki-labirint-tsvetnoy-put&lang=ru;false"
 }
