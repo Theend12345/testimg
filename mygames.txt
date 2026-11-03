@@ -1,5 +1,12 @@
 [
   {
+    "id": "10",
+    "url": "https://appgallery.huawei.com/app/C117244899",
+    "icon": "https://appimg-dra.dbankcdn.com/application/icon144/10169/1e9e99e327df4f65ad8cdc5f104e8b3a.png",
+    "name": "Стрелки: головоломка",
+    "description": "Любишь логические игры на внимание и пространственное мышление? Стрелки: головоломка — это идеальный способ провести время с пользой для ума."
+  },
+  {
     "id": "1",
     "url": "https://appgallery.huawei.com/app/C116831339",
     "icon": "https://appimg-dra.dbankcdn.com/application/icon144/10169/7a73d265cb744c1f9d4bc593fdfe6f6a.png",
@@ -54,12 +61,5 @@
     "icon": "https://appimg-dra.dbankcdn.com/application/icon144/10169/88eeeb829bfd4f40bc35b7d7f9105bd7.png",
     "name": "Ассоциации: слова категории",
     "description": "Любишь Эрудита и игры в слова? Представляем тебе свежий взгляд на жанр — Ассоциации: слова категории! Проверь свою эрудицию и словарный запас в увлекательной головоломке."
-  },
-  {
-    "id": "10",
-    "url": "https://appgallery.huawei.com/app/C117244899",
-    "icon": "https://appimg-dra.dbankcdn.com/application/icon144/10169/1e9e99e327df4f65ad8cdc5f104e8b3a.png",
-    "name": "Стрелки: головоломка",
-    "description": "Любишь логические игры на внимание и пространственное мышление? Стрелки: головоломка — это идеальный способ провести время с пользой для ума."
   }
 ]
